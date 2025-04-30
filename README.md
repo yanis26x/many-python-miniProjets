@@ -1,12 +1,10 @@
-# say-it
-lordi va dire ce que ta ecrit!
+# python-reminder
 
 
+# you will need this....:
+pip install notify-py
 
-## you need this:
-pip install pyttsx3
-
-seeyuh
+I HATE MY LIFE
 
 
-# UI soon ughhhhh
+## UI will maybe be added idk..
