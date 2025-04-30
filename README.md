@@ -1,16 +1,19 @@
-# plusieurs mini projets python dans les branche !
-
-## les branches :
-
-### WhatsApp-auto-sender
-send message a WhatsApp message via python!
-
-
-### background-remover
+# background-remover
 Remove the background from an image !!!
+### U will need this : 
 
-### python-reminder
-notification...
+```bash
+pip install rembg
+```
+# and 
+```bash
+# 4 Windows user
+pip install onnxruntime
 
-### say-it
-lordi va dire ce que ta ecrit!
+# 4 Cool user (mac)
+pip install onnxruntime-silicon
+```
+# it can take sum time, wait lol
+# put your image in the same folder as my prog XO
+
+# Hey!
